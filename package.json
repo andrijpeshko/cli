@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EkaterinaKononenko/node_1.js.git"
+    "url": "git+https://github.com/andrijpeshko/cli.js.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EkaterinaKononenko/node_1.js/issues"
+    "url": "https://github.com/andrijpeshko/cli.js/issues"
   },
-  "homepage": "https://github.com/EkaterinaKononenko/node_1.js#readme",
+  "homepage": "https://github.com/andrijpeshko/cli.js#readme",
   "dependencies": {
     "commander": "^10.0.0",
     "cors": "^2.8.5",
